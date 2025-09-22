@@ -8,7 +8,17 @@ The goal is to uncover meaningful insights about **customer behavior, sales perf
 - Includes multiple CSVs: `customers.csv`, `orders.csv`, `order_items.csv`, `products.csv`, etc.  
 - Due to GitHub size limits, only **sample CSV files** may be uploaded in `data/` for quick testing.  
 - For full analysis, please download the dataset directly from Kaggle.
+## The project analyzes an e-commerce dataset to answer business questions like:
 
+-Which products or categories bring the most sales?
+
+-How do customers behave across cities/states?
+
+-What’s the trend of orders over time?
+
+-How much revenue sellers generate?
+
+-Customer retention, growth rate, and payment trends.
 ---
 ## 🛠️ Tech Stack
 
